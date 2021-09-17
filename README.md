@@ -1,4 +1,4 @@
-# pacman
+# PacMan
 
 After some ☕ and some 🍎 this is the outcome.
 
