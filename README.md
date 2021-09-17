@@ -3,7 +3,7 @@
 After some ☕ and some 🍎 this is the outcome.
 
 # Name:
-> PacMen. 
+> PacMen (plural of PacMan). Becomes clear aftear reading the description and usage.
 
 # Description: 
 > Short project description. 
