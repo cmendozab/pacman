@@ -15,12 +15,12 @@ It is recommended to view the map in full screen size for better experience. How
 # Installation: 
 > There is nothing to install in here.
 
-If you want to test this project you will to download the .html, .js, and .css files to your computer. 
+If you want to test this project you will have to download the .html, .js, and .css files to your computer. 
 
 # Usage: 
 > This project has a very simple user interface.
 
-Once you have your access token included in the .js file you only require to open the .html file and click on the button that says Add PacMan to add a new instance of a pacman, repeat until you are satisfied with the amount of pacman on screen, then click on the Start Game button to make the PacMen move around.
+Once you have downloaded all the files to your computer you then only require to open the .html file and click on the button that says Add PacMan to add a new instance of a pacman, repeat until you are satisfied with the amount of pacmen on screen, then click on the Start Game button to make the PacMen move around.
 
 You could also add more PacMan after starting the game, simply repeat the process described previously to add new pacman instances.
 
