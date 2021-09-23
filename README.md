@@ -24,7 +24,7 @@ Once you have downloaded all the files to your computer you then only require to
 
 You could also add more PacMan after starting the game, simply repeat the process described previously to add new pacman instances.
 
-Trick: If you would like to see all of the pacmen on screen to speed up, click again on the Start Game button. The pacmen will start to move even faster each time you press the Start Game button.
+Trick: If you would like to see all of the pacmen on screen to speed up, click again on the Start Game button. The PacMen will start to move even faster each time you press the Start Game button.
 
 # Support: 
 > For additional support below is my email. Include the title in your email "Help PacMen Game GitHub".
