@@ -1,6 +1,7 @@
 # PacMan
 
 After some ☕ and some 🍎 this is the outcome.
+Full-Stack Web Development Programming Certificate (MERN) from MIT xPro.
 
 # Name:
 > PacMen (plural of PacMan). Becomes clear aftear reading the description and usage.
